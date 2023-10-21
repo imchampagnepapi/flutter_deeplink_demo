@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235401825052",
+    "project_id": "flutter-deeplink-demo-project",
+    "storage_bucket": "flutter-deeplink-demo-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235401825052:android:06c34a835883b0e75608d9",
+        "android_client_info": {
+          "package_name": "com.sarj33t.flutter_deeplink_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235401825052-udgrkbuqjiorptq8ipsvmgqa24qu76fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5pZG3ifFgm4Z0LgGfpYQ5JPBmn_QUkKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235401825052-udgrkbuqjiorptq8ipsvmgqa24qu76fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

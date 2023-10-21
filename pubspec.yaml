@@ -1,0 +1,25 @@
+name: flutter_deeplink_demo
+description: Flutter Deep Link Demo App
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+  firebase_core: ^2.15.1
+  firebase_dynamic_links: ^5.3.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

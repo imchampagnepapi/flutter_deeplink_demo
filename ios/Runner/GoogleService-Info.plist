@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>235401825052-f8sabiucf3cvsht73plqvs4flvrvsrbf.apps.googleusercontent.com</string>
+	<key>FlutterDeepLinkingEnabled</key>
+	<true/>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.235401825052-f8sabiucf3cvsht73plqvs4flvrvsrbf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOE3yB4mn7vbWIVoNp9R65Ad1xB_ioGMA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>235401825052</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sarj33t.flutterDeeplinkDemo</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-deeplink-demo-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-deeplink-demo-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:235401825052:ios:2b203d743fd3c04b5608d9</string>
+</dict>
+</plist>
